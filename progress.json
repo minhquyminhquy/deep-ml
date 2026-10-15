@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:07:00.621Z",
+  "generated_at": "2026-10-30T22:07:02.986Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -83,6 +83,32 @@
       "last_pushed_at": "2026-10-13T08:19:48.774Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-10-15T07:39:23.079Z",
+      "last_pushed_at": "2026-10-15T07:39:23.079Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-15T07:49:49.238Z",
+      "last_pushed_at": "2026-10-15T07:49:49.238Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
